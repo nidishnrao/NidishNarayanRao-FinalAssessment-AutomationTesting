@@ -8,7 +8,7 @@ The trainees have performed technical tasks using above technology. Its time to 
 
 
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555]][https://www.linkedin.com/in/nidish-rao]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/nidish-rao]
 
 
   <h3 align="center">NidishNarayanRao-FinalAssessment-AutomationTesting</h3>
