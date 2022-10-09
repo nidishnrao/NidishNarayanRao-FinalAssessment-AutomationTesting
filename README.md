@@ -6,11 +6,9 @@ The trainees have performed technical tasks using above technology. Its time to 
 
 <a name="readme-top"></a>
 
-[![Medium][license-shield]][https://medium.com/@nidishnrao]
-<a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-<a href="https://github.com/othneildrew/Best-README-Template"><strong>[![LinkedIn]</strong></a>
-[linkedin-shield]][https://www.linkedin.com/in/nidish-rao]
 
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555]][https://www.linkedin.com/in/nidish-rao]
 
 
   <h3 align="center">NidishNarayanRao-FinalAssessment-AutomationTesting</h3>
