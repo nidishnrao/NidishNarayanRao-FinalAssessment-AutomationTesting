@@ -1,4 +1,4 @@
-# NidishNarayanRao-FinalAssessment-AutomationTesting
+NidishNarayanRao-FinalAssessment-AutomationTesting
 Final Assessment for TietoEvry - Automation Testing stream - Campus batch 2022
 
 
@@ -13,7 +13,7 @@ Final Assessment for TietoEvry - Automation Testing stream - Campus batch 2022
   <p align="center">
    By Nidish Narayan Rao
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/nidishnrao/NidishNarayanRao-FinalAssessment-AutomationTesting"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -28,7 +28,7 @@ Final Assessment for TietoEvry - Automation Testing stream - Campus batch 2022
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+<!--         <li><a href="#built-with">Built With</a></li> -->
       </ul>
     </li>
 <!--     <li>
@@ -58,7 +58,7 @@ I have performed the technical tasks using above technology. Its time to showcas
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nidish-rao
