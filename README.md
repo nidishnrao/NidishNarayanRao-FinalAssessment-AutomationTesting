@@ -11,10 +11,10 @@ The trainees have performed technical tasks using above technology. Its time to 
 [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/nidish-rao]
 
 
-  <h3 align="center">NidishNarayanRao-FinalAssessment-AutomationTesting</h3>
+  <h3 align="center"><strong>Final Assessment for TietoEvry - Automation Testing stream - Campus batch 2022</strong></h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+   By Nidish Narayan Rao
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
