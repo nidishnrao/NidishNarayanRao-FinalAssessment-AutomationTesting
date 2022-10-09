@@ -7,7 +7,9 @@ The trainees have performed technical tasks using above technology. Its time to 
 <a name="readme-top"></a>
 
 [![Medium][license-shield]][https://medium.com/@nidishnrao]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/nidish-rao]
+<a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+<a href="https://github.com/othneildrew/Best-README-Template"><strong>[![LinkedIn]</strong></a>
+[linkedin-shield]][https://www.linkedin.com/in/nidish-rao]
 
 
 
